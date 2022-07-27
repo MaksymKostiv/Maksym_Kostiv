@@ -24,7 +24,7 @@
 //
 // let obj = {a: 1};
 // console.log(typeof obj);
-//12
+// console.log()
 
 // 2 - Создать переменную var, let, const. Перезаписать их значения(не для const).
 
