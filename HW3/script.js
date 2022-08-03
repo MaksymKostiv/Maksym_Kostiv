@@ -41,7 +41,18 @@
 
 
 // 3 - Привести тип каждого типа данных хотя бы 2-3мя способами(Google).
+
+// let num = '123';
+// console.log(+num);
 //
+// let numOne = '123';
+// console.log( parseFloat(numOne));
+//
+// let numTwo = '';
+// console.log(!!numTwo); два восклицатлеьных знака приводит любую переменную к булевому значению;
+
+
+
 // let num = 1;
 // num = '1';
 // num = true;
